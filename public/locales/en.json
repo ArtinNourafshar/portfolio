@@ -1,0 +1,114 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm Artin",
+    "title1": "Full-Stack",
+    "title2": "Developer",
+    "description": "Full-Stack Developer based in Iran, passionate about building intuitive, human-centered digital experiences. Specializing in modern web technologies and mobile applications.",
+    "available": "Available for projects",
+    "terminal": "Ready to build something amazing?",
+    "cta": "Get in Touch",
+    "viewWork": "View My Work"
+  },
+  "features": {
+    "title": "What I Do",
+    "subtitle": "Specialized in creating exceptional digital experiences that combine design thinking with technical excellence.",
+    "items": [
+      {
+        "number": "01",
+        "title": "Mobile Development",
+        "description": "Building cross-platform mobile applications with Flutter and Dart, creating beautiful and performant apps for iOS and Android."
+      },
+      {
+        "number": "02",
+        "title": "Frontend Development",
+        "description": "Crafting modern web experiences with React, Next.js, Vue.js, and TypeScript. Responsive, accessible, and lightning-fast."
+      },
+      {
+        "number": "03",
+        "title": "Backend Development",
+        "description": "Building robust APIs and services with Node.js, Python, FastAPI, and databases like PostgreSQL and MongoDB."
+      },
+      {
+        "number": "04",
+        "title": "Full-Stack Solutions",
+        "description": "End-to-end development from database design to deployment. Complete web applications that scale."
+      },
+      {
+        "number": "05",
+        "title": "Database Design",
+        "description": "Designing efficient database schemas with PostgreSQL, MongoDB, and Supabase. Optimized queries and data architecture."
+      },
+      {
+        "number": "06",
+        "title": "DevOps & Deployment",
+        "description": "Deploying and managing applications with Docker, AWS, Google Cloud, and modern CI/CD pipelines."
+      }
+    ]
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "From playful experiments to thoughtful systems, a look at the work I'm proud to have shipped.",
+    "viewProject": "View Project",
+    "items": [
+      {
+        "title": "FlutterFilm App",
+        "description": "A cross-platform movie application built with Flutter, featuring a beautiful UI and smooth animations.",
+        "meta": "Full-Stack Developer, 2024"
+      },
+      {
+        "title": "Taskamon",
+        "description": "A comprehensive project management application with real-time collaboration features.",
+        "meta": "Lead Developer, 2024"
+      },
+      {
+        "title": "Macode Team",
+        "description": "A collaborative platform for developers to share and discover coding resources.",
+        "meta": "Full-Stack Developer, 2023"
+      },
+      {
+        "title": "Portfolio Website",
+        "description": "A modern, animated portfolio website built with Next.js and WebGL shaders.",
+        "meta": "Full-Stack Developer, 2024"
+      }
+    ]
+  },
+  "techStack": {
+    "title": "Tech Stack",
+    "subtitle": "Tools and technologies I use to build exceptional digital experiences."
+  },
+  "about": {
+    "title": "About Me",
+    "bio": [
+      "A <strong>Full-Stack Developer</strong> based in Iran, passionate about building intuitive, human-centered digital experiences. With expertise in <strong>modern web technologies</strong> and <strong>mobile development</strong>, I bring ideas to life through clean code and thoughtful design.",
+      "My journey into development began with a curiosity for how things work on the web. That led me to embrace <strong>full-stack development</strong> as both a craft and a mindset, one that balances performance, usability, and maintainability.",
+      "Currently working on exciting projects and always looking for opportunities to <strong>collaborate on interesting projects</strong> and <strong>build amazing applications</strong>. Dreams come true one day! 🚀"
+    ],
+    "experience": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "stack": "Stack"
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "description": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Just reach out!",
+    "copyEmail": "Copy email",
+    "emailCopied": "Email copied!",
+    "showEmail": "Show email"
+  },
+  "footer": {
+    "copyright": "2026 © Built with Next.js",
+    "madeBy": "By Artin Nourafshar",
+    "donate": "Support My Work"
+  },
+  "donate": {
+    "title": "Support Me",
+    "description": "If you find my work helpful, consider buying me a coffee!",
+    "button": "Donate"
+  }
+}
